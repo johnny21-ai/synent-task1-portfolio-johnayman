@@ -38,7 +38,7 @@ John Ayman Makram Nawar
 ---
 
 ## 📸 Screenshot
-(assets/Screenshot.png)
+(Screenshot.png)
 
 ---
 
